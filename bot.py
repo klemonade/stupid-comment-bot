@@ -9,7 +9,7 @@ import random as r
 
 def comment(i):
     # clicking reply txt
-    gui.moveTo(1562, 485, duration=0)
+    gui.moveTo(1539, 519, duration=0)
     gui.click()
 
     # Clicking msg block
@@ -30,19 +30,12 @@ def test():
 
 def main():
     sleep(5)
-    for i in range (50):
+    # Limit is 150
+    for i in range (150):
         comment(i)
 
 
-
-# gui.typewrite('Bello')
-# gui.typewrite(["enter"])
-
-# gui.typewrite('Kaning is Special')
-
-# gui.moveTo(1876, 1004, duration = 1)
-
-
+# Debugging Zone
 def on_move(x, y):
     pass
 
@@ -61,5 +54,11 @@ def listen():
 
 
 
+# One time test
 test()
+
+# Execute Script
 # main()
+
+# Debugging Listener
+# listen()
