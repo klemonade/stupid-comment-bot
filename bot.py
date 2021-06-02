@@ -25,11 +25,11 @@ def comment(i):
 print(gui.size())
 
 def test():
-    sleep(2)
+    sleep(5)
     comment(0)
 
 def main():
-    sleep(2)
+    sleep(5)
     for i in range (50):
         comment(i)
 
@@ -61,5 +61,5 @@ def listen():
 
 
 
-# test()
-main()
+test()
+# main()
