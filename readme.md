@@ -14,5 +14,7 @@ Thanks in advance and good luck with coding
 
 May the force be with you 
 
+### Welcome to 'Stupid Tiktok Comment Bot' :D
+
 ###### PS. LONG LIVE CHERSIC
 [![CherSic](https://pbs.twimg.com/profile_images/984706355033292801/3JWtylRM_400x400.jpg "CherSic")](https://pbs.twimg.com/profile_images/984706355033292801/3JWtylRM_400x400.jpg "CherSic")
