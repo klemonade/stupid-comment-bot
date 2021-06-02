@@ -11,7 +11,7 @@ import random as r
 # Comment function
 def comment(i):
     # clicking reply txt
-    gui.moveTo(1539, 519, duration=0)
+    gui.moveTo(1552, 484, duration=0)
     gui.click()
 
     # clicking msg block
@@ -77,7 +77,7 @@ def listen():
 # test()
 
 # Execute Full Script
-main()
+# main()
 
 # Debugging Listener (to edit mouse position for each machine)
-# listen()
+listen()
