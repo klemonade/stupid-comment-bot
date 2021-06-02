@@ -1,3 +1,6 @@
+# Please read the 'readme.md' file
+
+
 from pynput.mouse import Listener as MouseListener
 
 import pyautogui as gui
