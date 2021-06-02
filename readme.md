@@ -11,7 +11,7 @@ However, I do not know how to do it using pynput as it run seperately from the l
 I will be so thankful to the person who can add this feature
 
 Thanks in advance and good luck with coding
-May the force be with you :tw-1f606:
+May the force be with you 
 
 ###### PS. LONG LIVE CHERSIC
 [![CherSic](https://pbs.twimg.com/profile_images/984706355033292801/3JWtylRM_400x400.jpg "CherSic")](https://pbs.twimg.com/profile_images/984706355033292801/3JWtylRM_400x400.jpg "CherSic")
