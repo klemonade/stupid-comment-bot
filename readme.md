@@ -11,6 +11,7 @@ However, I do not know how to do it using pynput as it run seperately from the l
 I will be so thankful to the person who can add this feature
 
 Thanks in advance and good luck with coding
+
 May the force be with you 
 
 ###### PS. LONG LIVE CHERSIC
